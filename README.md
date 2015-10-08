@@ -1,3 +1,5 @@
+![](http://monks.co/images/haunt.png)
+
 # Haunt
 
 [Download Haunt.app.zip](https://github.com/amonks/haunt/releases/download/v1.0/Haunt.app.zip)
