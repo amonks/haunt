@@ -1,3 +1,5 @@
+# Haunt
+
 [Download Haunt.app.zip](https://github.com/amonks/haunt/releases/download/v1.0/Haunt.app.zip)
 
 Haunt is a game for OSX designed around the [LEAP Motion](https://www.leapmotion.com/) controller. You play as a *cool scary ghost* and try to collect the *cool ghost stars* so you can accumulate *scary cool points*.
